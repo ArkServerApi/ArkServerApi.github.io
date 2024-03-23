@@ -13,6 +13,10 @@ h1 {
     font-size: 4vw;
 }
 
+.dropdown-menu > .dropdown-item {
+    color: black !important;
+}
+
 .navbar {
     background-color: transparent !important;
     color: white !important;
@@ -54,7 +58,8 @@ html, body {
 }
 
 p {
-    font-size: 2em;
+    font-size: 2vw;
+    text-align: center;
 }
 
 .fas {
